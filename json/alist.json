@@ -1,0 +1,20 @@
+[
+   {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro/",
+      "startPage": "/",
+      "showAll": false,
+      "search": true,
+      "headers": {
+         "Authorization": ""
+      },
+      "params": {
+         "/abc": {
+            "password": "123"
+         },
+         "/abc/abc": {
+            "password": "123"
+         }
+      }
+   }
+]
