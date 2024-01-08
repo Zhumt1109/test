@@ -186,4 +186,4 @@ var rule = {
         });
         setResult(d);
     `,
-          }
+}
