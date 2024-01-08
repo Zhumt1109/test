@@ -180,22 +180,33 @@
       "ext": "./json/nmys.json"
     },
     {
-      "key": "AList",
-      "name": "AList",
+      "key": "有声小说js",
+      "name": "有声┃小说",
       "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/alist.json"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
-      "key": "WebDAV",
-      "name": "WebDAV",
+      "key": "dr_兔小贝",
+      "name": "儿童┃启蒙",
       "type": 3,
-      "api": "csp_WebDAV",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/兔小贝.js",
+      "style": 
+      {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/webdav.json"
+      "quickSearch": 0,
+      "changeable": 0
     }
   ],
   "parses": [
