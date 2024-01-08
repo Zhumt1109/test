@@ -1,10 +1,10 @@
 {
-  "spider": "./spider.jar;md5;00c0958cc82ffb847e238ab822ab59dc",
+  "spider": "./spider.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
       "key": "豆豆",
-      "name": "涛哥┃推荐",
+      "name": "豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -178,6 +178,24 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "./json/nmys.json"
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./json/webdav.json"
     }
   ],
   "parses": [
