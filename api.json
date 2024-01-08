@@ -183,8 +183,8 @@
       "key": "drpy_js_Alist",
       "name": "小雅┃网盘",
       "type": 3,
-      "api": "./js/alist.min.js",
-      "ext": "./json/alist.json"
+"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/txt/json/alist.json"
     },
     {
       "key": "有声小说js",
