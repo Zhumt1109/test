@@ -179,11 +179,20 @@
       "changeable": 1,
       "ext": "./json/nmys.json"
     },
+    //{
+    //  "key": "drpy_js_Alist",
+    //  "name": "alist┃网盘",
+    //  "type": 3,
+    // "api": "https://raw.gitmirror.com/Zhumt1109/test/main/js/alist.min.js",
+  //    "ext": "./json/alist.json"
+   // },
     {
-      "key": "drpy_js_Alist",
-      "name": "alist┃网盘",
+      "key": "alist┃网盘",
+      "name": "AList",
       "type": 3,
-     "api": "https://raw.gitmirror.com/Zhumt1109/test/main/js/alist.min.js",
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
       "ext": "./json/alist.json"
     },
     {
