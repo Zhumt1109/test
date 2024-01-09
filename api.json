@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar;5aee1ff968a3dc5cbbf225399e9441e9",
+  "spider": "https://raw.gitmirror.com/Zhumt1109/test/main/spider.jar;5aee1ff968a3dc5cbbf225399e9441e9",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -177,7 +177,23 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/nmys.json"
+      "ext": "https://raw.gitmirror.com/Zhumt1109/test/main/json/nmys.json"
+    },
+    {
+    "key": "drpy_js_Alist",
+    "name": "alist┃网盘",
+    "type": 3,
+    "api": "https://raw.gitmirror.com/Zhumt1109/test/main/js/alist.min.js",
+   "ext": "https://raw.gitmirror.com/Zhumt1109/test/main/json/alist.json"
+   },
+    {
+      "key": "alist┃网盘1",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/Zhumt1109/test/main/json/alist.json"
     },
     {
       "key": "有声小说js",
