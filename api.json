@@ -183,15 +183,15 @@
       "key": "drpy_js_Alist",
       "name": "小雅┃网盘",
       "type": 3,
-     "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/alist.min.js",
+     "api": "./js/alist.min.js",
       "ext": "./json/alist.json"
     },
     {
       "key": "有声小说js",
       "name": "有声┃小说",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -204,8 +204,8 @@
       "key": "dr_兔小贝",
       "name": "儿童┃启蒙",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
