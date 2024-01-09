@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+  "spider": "https://raw.gitmirror.com/Zhumt1109/test/mainspider.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -177,21 +177,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/nmys.json"
+      "ext": "https://raw.gitmirror.com/Zhumt1109/test/main/json/nmys.json"
     },
     {
       "key": "drpy_js_Alist",
-      "name": "小雅┃网盘",
+      "name": "alist┃网盘",
       "type": 3,
-     "api": "./js/alist.min.js",
-      "ext": "./json/alist.json"
+     "api": "https://raw.gitmirror.com/Zhumt1109/test/main/js/alist.min.js",
+      "ext": "https://raw.gitmirror.com/Zhumt1109/test/main/json/alist.json"
     },
     {
       "key": "有声小说js",
       "name": "有声┃小说",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/有声小说吧.js",
+      "api": "https://raw.gitmirror.com/Zhumt1109/test/main/js/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/Zhumt1109/test/main/js/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -204,8 +204,8 @@
       "key": "dr_兔小贝",
       "name": "儿童┃启蒙",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://raw.gitmirror.com/Zhumt1109/test/main/js/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/Zhumt1109/test/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -478,7 +478,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./live.txt",
+      "url": "https://raw.gitmirror.com/Zhumt1109/test/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
