@@ -19,10 +19,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": {
+      "ext":"{
       "token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "filter": "./json/wogg.json",
-      }
+      "filter": "./json/wogg.json"
+      }"
     },
     {
       "key": "YGP",
