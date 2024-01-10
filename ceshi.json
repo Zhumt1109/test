@@ -20,7 +20,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext":
-    "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹$$$./json/wogg.json"
+    "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$./json/wogg.json"
     },
     {
       "key": "YGP",
