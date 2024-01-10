@@ -19,8 +19,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext":
-    "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$./json/wogg.json"
+      "ext": 
+      "./json/token.json$$$https://wogg.xyz/|104.16.245.50$$$null$$$1$$$./json/wogg.json"
     },
     {
       "key": "YGP",
